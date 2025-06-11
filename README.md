@@ -8,7 +8,7 @@ Track any IP address or domain and visualize its geolocation using IPify and Lea
 
 ## Screeshot
 
-(![Screenshot](https://github.com/user-attachments/assets/0e76a23b-077f-4c5e-bc5f-48c7977c01b2)
+![Screenshot](https://github.com/user-attachments/assets/0e76a23b-077f-4c5e-bc5f-48c7977c01b2)
 
 
 ##  Features
