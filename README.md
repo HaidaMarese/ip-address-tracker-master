@@ -6,6 +6,11 @@ Track any IP address or domain and visualize its geolocation using IPify and Lea
 
 [Click to view deployed site](https://ip-address-tracker-master-blond-iota.vercel.app/)
 
+## Screeshot
+
+(![Screenshot](https://github.com/user-attachments/assets/0e76a23b-077f-4c5e-bc5f-48c7977c01b2)
+
+
 ##  Features
 
 - IP/domain lookup
