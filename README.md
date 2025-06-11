@@ -2,11 +2,11 @@
 
 Track any IP address or domain and visualize its geolocation using IPify and LeafletJS.
 
-## 🌐 Live Demo
+##  Live Demo
 
 [Click to view deployed site](https://ip-address-tracker-master-blond-iota.vercel.app/)
 
-## 💡 Features
+##  Features
 
 - IP/domain lookup
 - Interactive map with LeafletJS
@@ -14,13 +14,13 @@ Track any IP address or domain and visualize its geolocation using IPify and Lea
 - Real-time IP fetch on page load
 - Input validation
 
-## 🔧 Technologies
+##  Technologies
 
 - HTML, CSS, JavaScript
 - LeafletJS
 - IPify Geolocation API
 
-## 📁 Setup
+##  Setup
 
 Clone the repo and add your own `secrets.js` with your API key:
 
