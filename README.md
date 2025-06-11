@@ -1,6 +1,25 @@
 # IP Address Tracker
 
-Track any IP address or domain and visualize its geolocation using IPify and LeafletJS.
+This project is a real-time IP Address Tracker that lets users enter an IP address or domain and see detailed information including:
+
+- IP address
+
+- Location (City, Region, Country)
+
+- Timezone
+
+- ISP
+
+- A marker on the map powered by LeafletJS
+
+
+## APIs used:
+
+IPify API for geolocation
+
+ipify.org for fetching the user’s IP address
+
+
 
 ##  Live Demo
 
@@ -24,6 +43,7 @@ Track any IP address or domain and visualize its geolocation using IPify and Lea
 - HTML, CSS, JavaScript
 - LeafletJS
 - IPify Geolocation API
+- Vercel (Deployment)
 
 ##  Setup
 
