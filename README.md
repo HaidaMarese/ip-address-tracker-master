@@ -45,6 +45,12 @@ ipify.org for fetching the user’s IP address
 - IPify Geolocation API
 - Vercel (Deployment)
 
+## Reflection
+
+This project improved my API and DOM skills. One tough part was checking if the input was a valid IP or domain, which I solved using regex. I also learned how to update Leaflet maps without refreshing the page.
+
+I made sure the layout works on all screen sizes and followed accessibility rules. Next time, I’d add better user feedback like a loading message and use a tool like Vite to organize the files better.
+
 ##  Setup
 
 Clone the repo and add your own `secrets.js` with your API key:
